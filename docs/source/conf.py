@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Awesome VPN'
-copyright = '2021, www.orezm.com'
+copyright = '2021, Ernest'
 author = 'Ernest Gingrich'
 
 release = '0.1'
