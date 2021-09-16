@@ -36,18 +36,18 @@ No App or plugin needed. All you need to do is a few clicks on built-in settings
 
 .. note::
 
-    There are no limitations on rate and bandwidth of your subscription. So the actual rate of connection mostly depends on which network you choose to connect to the server with. If your Wi-Fi performs differently from hour to hour, always using cellphone network will bring you the best experience.
+    There are no limitations on rate and bandwidth of your subscription. So **the actual rate of connection mostly depends on which network you choose to connect to the server with**. If your Wi-Fi performs differently from hour to hour, always using cellphone network will bring you the best experience.
 
 
 Simple Steps to Get Started
 -----------------------------
 
-#. Sign up
+#. Sign up ->  `Click Here <https://account.vpn.orezm.com/my/?action=1>`_
 #. Choose your subscription
 #. Wait for a confirmation email
 #. Set up on your devices for VPN
 #. Set up on your devices for Proxy
-#. Then, you are good to go
+#. Then, you are good to go!
 
 
 Contents
@@ -65,7 +65,7 @@ Useful Links
 * `Sign Up and Get Your Credential <https://account.vpn.orezm.com/my/?action=1>`_
 * `Login and Change Password <https://account.vpn.orezm.com/my/>`_
 * `Reset Password <https://account.vpn.orezm.com/my/lost-password/>`_
-* `Connect to Proxy From a New Network Environment <http://asia121.vpn.orezm.com/auth>`_
+* `Connect to Proxy From a IP <http://asia121.vpn.orezm.com/auth>`_
 * Payment
 
 
