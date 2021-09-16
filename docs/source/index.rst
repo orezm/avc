@@ -1,17 +1,54 @@
-Welcome to Lumache's documentation!
-===================================
+Awesome VPN - Optimized for Traveling in China
+===============================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Welcome aboard. My name is Ernest, I’m a professional software engineer and solution expert, and I’ve been a developer for over 10 years. I’m here to help you get rid of internet restriction and censorships in case you are traveling or staying in mainland China. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Awesome VPN** is not competing with those global leaders of the industry, such as Nord VPN and Express VPN. It's just trying to do more and better to adapt to PRC’s weird network environment.
 
 .. note::
 
-   This project is under active development.
+    You’re using what I’m every day using, so trust me, it’s definitely worth it.
+
+
+Exclusive Features
+------------------
+
+1. Security & Speed Go First
+^^^^^^^^^^^^^^^^^^^^^^^^^
+We did not compromise on security and speed. Awesome VPN establishes connections with the same protocols as the other providers do. And all servers of Awesome VPN locate in southeast Asia, where is most close to mainland China. So we can keep your data and rate at the top tier.
+
+2. Stability Matters
+^^^^^^^^^^^^^^^^^
+Awesome VPN will change inbound addresses automatically everyday. And connective test is running hourly. These will make your connection never get blocked.
+
+3. It's a Car, Not a Bus
+^^^^^^^^^^^^^^^^^^^^^
+There will be no more than 5 users connecting to the same server at the same moment. You don't need to wait to get on, and you will never be kicked out of connection.
+
+4. VPN and Proxy, You Got Both
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+We’re not going to kill a fly with an elephant gun. Our powerful socks proxy is suitable for most situations for speed and convenience reasons, though choice is on you.
+
+5. Easy Use
+^^^^^^^^
+No App or plugin needed. All you need to do is a few clicks on built-in settings of you cell phone or PC/Mac.
+
+
+.. note::
+
+    There are no limitations on rate and bandwidth of your subscription. So the actual rate of connection mostly depends on which network you choose to connect to the server with. If your Wi-Fi performs differently from hour to hour, always using cellphone network will bring you the best experience.
+
+
+Simple Steps to Get Started
+-----------------------------
+
+#. Sign up
+#. Choose your subscription
+#. Wait for a confirmation email
+#. Set up on your devices for VPN
+#. Set up on your devices for Proxy
+#. Then, you are good to go
+
 
 Contents
 --------
@@ -20,3 +57,15 @@ Contents
 
    usage
    api
+
+
+Useful Links
+------------
+
+* `Sign Up and Get Your Credential <https://account.vpn.orezm.com/my/?action=1>`_
+* `Login and Change Password <https://account.vpn.orezm.com/my/>`_
+* `Reset Password <https://account.vpn.orezm.com/my/lost-password/>`_
+* `Connect to Proxy From a New Network Environment <http://asia121.vpn.orezm.com/auth>`_
+* Payment
+
+
