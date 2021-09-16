@@ -23,7 +23,7 @@ Awesome VPN will change inbound addresses automatically everyday. And connective
 
 3. It's a Car, Not a Bus
 ^^^^^^^^^^^^^^^^^^^^^
-There will be no more than 5 users connecting to the same server at the same moment. You don't need to wait to get on, and you will never be kicked out of connection.
+There will be no more than 5 users connecting to the same server at the same moment. You don't need to wait to get on even in the rush hour, and you will never be kicked out of connection.
 
 4. VPN and Proxy, You Got Both
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -31,7 +31,7 @@ We’re not going to kill a fly with an elephant gun. Our powerful socks proxy i
 
 5. Easy Use
 ^^^^^^^^
-No App or plugin needed. All you need to do is a few clicks on built-in settings of you cell phone or PC/Mac.
+No App or plugin needed. All you have to do is a few clicks on built-in settings of you cell phone or PC/Mac.
 
 
 .. note::
