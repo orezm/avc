@@ -35,7 +35,7 @@ Awesome VPN will change inbound addresses automatically everyday. And connective
 
 3. It's a Car, Not a Bus
 ^^^^^^^^^^^^^^^^^^^^^
-There will be no more than 5 users connecting to the same server at the same moment. You don't need to wait to get on even in the rush hour, and you will never be kicked out of connection.
+There will be no more than 10 users connecting to the same server at the same moment. You don't need to wait to get on even in the rush hour, and you will never be kicked out of connection.
 
 4. VPN and Proxy, You Got Both
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
