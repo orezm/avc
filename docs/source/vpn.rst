@@ -56,7 +56,7 @@ Set up a VPN connection on Android devices
 
 #. Click CONNECT and enjoy.
 
-.. _android:
+.. _windows:
 
 Set up a VPN connection on Windows 10
 ------------------------------------------
