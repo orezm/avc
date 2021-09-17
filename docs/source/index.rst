@@ -62,7 +62,7 @@ Simple Steps to Get Started
 
 #. Set up on your devices for Proxy  ->  :doc:`Click Here <proxy>`
 
-#. Then, you are good to go!
+#. Enjoy!
 
 Contents
 --------
