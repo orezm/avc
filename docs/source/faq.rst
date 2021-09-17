@@ -9,7 +9,7 @@ What's the limition of bandwidth?
 ---------------------------------
 There is no limitation on bandwidth. Please feel free and enjoy.
 
-Why do i got low speed sometimes?
+Why did i got low speed sometimes?
 ---------------------------------
 There is no limitation on connection rate. The actual rate mostly depends on which 
 network you choose to connect to the server with. If your Wi-Fi performs differently 
