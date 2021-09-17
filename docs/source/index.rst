@@ -9,6 +9,18 @@ Welcome aboard. My name is Ernest, I’m a professional software engineer and so
 
     You’re using what I’m every day using, so trust me, it’s definitely worth it.
 
+Useful Links
+------------
+
+* `Sign Up and Get Your Credential <https://account.vpn.orezm.com/my/?action=1>`_
+
+* `Login and Change Password <https://account.vpn.orezm.com/my/>`_
+
+* `Reset Password <https://account.vpn.orezm.com/my/lost-password/>`_
+
+* `Connect to Proxy From an Unauthorized IP <http://asia121.vpn.orezm.com/auth>`_
+
+* `Pricing & Payment <https://account.vpn.orezm.com/payment/>`_
 
 Exclusive Features
 ------------------
@@ -33,39 +45,29 @@ We’re not going to kill a fly with an elephant gun. Our powerful socks proxy i
 ^^^^^^^^
 No App or plugin needed. All you have to do is a few clicks on built-in settings of you cell phone or PC/Mac.
 
-
 .. note::
 
     There are no limitations on rate and bandwidth of your subscription. So **the actual rate of connection mostly depends on which network you choose to connect to the server with**. If your Wi-Fi performs differently from hour to hour, always using cellphone network will bring you the best experience.
-
 
 Simple Steps to Get Started
 -----------------------------
 
 #. Sign up  ->  `Click Here <https://account.vpn.orezm.com/my/?action=1>`_
-#. Choose your subscription  ->  `Click Here <https://account.vpn.orezm.com/payment/>`_
-#. Wait for a confirmation email
-#. Set up on your devices for VPN  ->  :doc:`Click Here <usage>`
-#. Set up on your devices for Proxy  ->  :doc:`Click Here <api>`
-#. Then, you are good to go!
 
+#. Choose your subscription  ->  `Click Here <https://account.vpn.orezm.com/payment/>`_
+
+#. Wait for a confirmation email (no more than one hour)
+
+#. Set up on your devices for VPN  ->  :doc:`Click Here <vpn>`
+
+#. Set up on your devices for Proxy  ->  :doc:`Click Here <proxy>`
+
+#. Then, you are good to go!
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
-
-
-Useful Links
-------------
-
-* `Sign Up and Get Your Credential <https://account.vpn.orezm.com/my/?action=1>`_
-* `Login and Change Password <https://account.vpn.orezm.com/my/>`_
-* `Reset Password <https://account.vpn.orezm.com/my/lost-password/>`_
-* `Connect to Proxy From an unauthorized IP <http://asia121.vpn.orezm.com/auth>`_
-* `Payment <https://account.vpn.orezm.com/payment/>`_
-
-
+   vpn
+   proxy
