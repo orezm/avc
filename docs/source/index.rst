@@ -18,7 +18,7 @@ Useful Links
 
 * `Reset Password <https://account.vpn.orezm.com/my/lost-password/>`_
 
-* `Connect to Proxy From an Unauthorized IP <http://asia121.vpn.orezm.com/auth>`_
+* `Connect to Proxy From an Unauthorized IP <https://asia121.vpn.orezm.com/auth>`_
 
 * `Pricing & Payment <https://account.vpn.orezm.com/payment/>`_
 
