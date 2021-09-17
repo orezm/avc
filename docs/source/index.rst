@@ -65,7 +65,7 @@ Useful Links
 * `Sign Up and Get Your Credential <https://account.vpn.orezm.com/my/?action=1>`_
 * `Login and Change Password <https://account.vpn.orezm.com/my/>`_
 * `Reset Password <https://account.vpn.orezm.com/my/lost-password/>`_
-* `Connect to Proxy From a IP <http://asia121.vpn.orezm.com/auth>`_
+* `Connect to Proxy From an unauthorized IP <http://asia121.vpn.orezm.com/auth>`_
 * `Payment <https://account.vpn.orezm.com/payment/>`_
 
 
