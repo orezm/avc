@@ -1,5 +1,5 @@
-Settings for Proxy on Firefox Browser (for example)
-=====================================
+Settings for Proxy
+==================
 
 .. _proxy:
 
@@ -16,7 +16,7 @@ Preparations
 
 * Enter your username and password in the opening page, then click Log In.
 
-Settings on Firefox
+Settings on Firefox (for example)
 -------------------
 
 #. Open Settings.
