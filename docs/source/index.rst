@@ -56,7 +56,7 @@ Simple Steps to Get Started
 
 #. Choose your subscription  ->  `Click Here <https://account.vpn.orezm.com/payment/>`_
 
-#. Wait for a confirmation email (no more than one hour)
+#. Wait for a confirmation email
 
 #. Set up on your devices for VPN  ->  :doc:`Click Here <vpn>`
 
@@ -71,3 +71,10 @@ Contents
 
    vpn
    proxy
+
+FAQ
+---
+* How long will it take for confirmation?
+I will deal with it as soon as I receive your subscription message. It will never take more than 1 hour.
+
+
