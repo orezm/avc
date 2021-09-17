@@ -3,7 +3,7 @@ Awesome VPN - Optimized for Traveling in China
 
 Welcome aboard. My name is Ernest, I’m a professional software engineer and solution expert, and I’ve been a developer for over 10 years. I’m here to help you get rid of internet restriction and censorships in case you are traveling or staying in mainland China. 
 
-**Awesome VPN** is not competing with those global leaders of the industry, such as Nord VPN and Express VPN. It's just trying to do more and better to adapt to PRC’s weird network environment.
+**Awesome VPN** is not competing with those global leaders of the industry, such as Nord VPN and Express VPN. It's just trying to do more and better to adapt to PRC’s weird network environment and get survive.
 
 .. note::
 
