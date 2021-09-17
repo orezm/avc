@@ -42,11 +42,11 @@ No App or plugin needed. All you have to do is a few clicks on built-in settings
 Simple Steps to Get Started
 -----------------------------
 
-#. Sign up ->  `Click Here <https://account.vpn.orezm.com/my/?action=1>`_
-#. Choose your subscription
+#. Sign up  ->  `Click Here <https://account.vpn.orezm.com/my/?action=1>`_
+#. Choose your subscription  ->  `Click Here <https://account.vpn.orezm.com/payment/>`_
 #. Wait for a confirmation email
-#. Set up on your devices for VPN
-#. Set up on your devices for Proxy
+#. Set up on your devices for VPN  ->  :doc:`Click Here <usage>`
+#. Set up on your devices for Proxy  ->  :doc:`Click Here <api>`
 #. Then, you are good to go!
 
 
@@ -66,6 +66,6 @@ Useful Links
 * `Login and Change Password <https://account.vpn.orezm.com/my/>`_
 * `Reset Password <https://account.vpn.orezm.com/my/lost-password/>`_
 * `Connect to Proxy From a IP <http://asia121.vpn.orezm.com/auth>`_
-* Payment
+* `Payment <https://account.vpn.orezm.com/payment/>`_
 
 
