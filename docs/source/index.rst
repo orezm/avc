@@ -71,3 +71,4 @@ Contents
 
    vpn
    proxy
+   faq
