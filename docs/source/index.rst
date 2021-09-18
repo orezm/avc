@@ -5,10 +5,6 @@ Welcome aboard. My name is Ernest, I’m a professional software engineer and so
 
 **Awesome VPN** is not competing with those global leaders of the industry, such as Nord VPN and Express VPN. It's just trying to do more and better to adapt to PRC’s weird network environment, so we can avoid being blocked and get survived.
 
-.. note::
-
-    You’re using what I’m every day using, so trust me, it’s definitely worth it.
-
 Useful Links
 ------------
 
@@ -18,9 +14,13 @@ Useful Links
 
 * `Reset Password <https://account.vpn.orezm.com/my/lost-password/>`_
 
+* `Pricing & Payment <https://account.vpn.orezm.com/payment/>`_
+
 * `Connect to Proxy From an Unauthorized IP <https://asia121.vpn.orezm.com/auth>`_
 
-* `Pricing & Payment <https://account.vpn.orezm.com/payment/>`_
+.. note::
+
+    You should always click and open links above without any VPN or Proxy connections.
 
 Exclusive Features
 ------------------
