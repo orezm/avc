@@ -20,7 +20,7 @@ Useful Links
 
 .. note::
 
-    You should always click and open links above without any VPN or Proxy connections.
+    You should always click and open links above WITHOUT (or disconnect from) any VPN or Proxy connections.
 
 Exclusive Features
 ------------------
