@@ -8,15 +8,14 @@ Welcome aboard. My name is Ernest, I’m a professional software engineer and so
 Useful Links
 ------------
 
-* `Sign Up and Get Your Credential <https://account.vpn.orezm.com/my/?action=1>`_
+* `Sign Up and Get Your Credential <https://www.orezm.com/my/?action=1>`_
 
-* `Login and Change Password <https://account.vpn.orezm.com/my/>`_
+* `Login and Change Password <https://www.orezm.com/my/>`_
 
-* `Reset Password <https://account.vpn.orezm.com/my/lost-password/>`_
+* `Reset Password <https://www.orezm.com/my/lost-password/>`_
 
-* `Pricing & Payment <https://account.vpn.orezm.com/payment/>`_
+* `Pricing & Payment <https://www.orezm.com/payment/>`_
 
-* `Connect to Proxy From an Unauthorized IP <https://asia121.vpn.orezm.com/auth>`_
 
 .. note::
 
@@ -52,9 +51,9 @@ No App or plugin needed. All you have to do is a few clicks on built-in settings
 Simple Steps to Get Started
 -----------------------------
 
-#. Sign up  ->  `Click Here <https://account.vpn.orezm.com/my/?action=1>`_
+#. Sign up  ->  `Click Here <https://www.orezm.com/my/?action=1>`_
 
-#. Choose your subscription  ->  `Click Here <https://account.vpn.orezm.com/payment/>`_
+#. Choose your subscription  ->  `Click Here <https://www.orezm.com/payment/>`_
 
 #. Wait for a confirmation email
 
