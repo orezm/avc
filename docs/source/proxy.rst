@@ -12,6 +12,6 @@ Settings on Firefox (for example)
 
 #. Check the option 'Automatically proxy configuration URL'
 
-#. Enter ``http://www.orezm.com/basic.pac`` in the textbox.
+#. Enter ``https://www.orezm.com/basic.pac`` in the textbox.
 
 #. Click OK.
