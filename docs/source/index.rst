@@ -7,6 +7,7 @@ Welcome aboard. My name is Ernest, I’m a professional software engineer and so
 
 Useful Links
 ------------
+* :doc:`Quick Guide <vpn>`
 
 * `Sign Up and Get Your Credential <https://www.orezm.com/my/?action=1>`_
 
