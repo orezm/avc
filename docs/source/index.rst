@@ -15,7 +15,7 @@ Useful Links
 
 * `Reset Password <https://www.orezm.com/my/lost-password/>`_
 
-* `Pricing & Payment <https://www.orezm.com/payment/>`_
+* `Pricing & Payment <https://www.orezm.com/my/payment/>`_
 
 
 .. note::
@@ -54,7 +54,7 @@ Simple Steps to Get Started
 
 #. Sign up  ->  `Click Here <https://www.orezm.com/my/?action=1>`_
 
-#. Choose your subscription  ->  `Click Here <https://www.orezm.com/payment/>`_
+#. Choose your subscription  ->  `Click Here <https://www.orezm.com/my/payment/>`_
 
 #. Wait for a confirmation email
 
