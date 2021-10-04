@@ -17,6 +17,8 @@ Useful Links
 
 * `Pricing & Payment <https://www.orezm.com/my/payment/>`_
 
+* :doc:`中文说明 <zh>`
+
 
 .. note::
 
@@ -72,3 +74,4 @@ Contents
    vpn
    proxy
    faq
+   zh
