@@ -18,7 +18,7 @@ Awesome VPN 不与行业的全球领导者竞争，例如 Nord VPN 和 Express V
 
 
 如何支付
-^^^^^^
+^^^^^^^^
 
 * 方法一：申请Paypal账户并绑定信用卡
 您只需要有一张VISA或MASTER颁发的信用卡即可完成支付；
@@ -35,7 +35,7 @@ Awesome VPN 不与行业的全球领导者竞争，例如 Nord VPN 和 Express V
 
 
 如何使用
-^^^^^^
+^^^^^^^^
 * 第一步：下载并安装Firefox（火狐浏览器）；Firefox官网链接 `点击这里 <https://www.mozilla.org/zh-CN/firefox/>`_
 
 * 第二步：打开Firefox，将账户后台显示的PAC地址复制到网络选项中，点击确定即完成设置；
@@ -47,7 +47,7 @@ Awesome VPN 不与行业的全球领导者竞争，例如 Nord VPN 和 Express V
   #. 复制或输入PAC地址并点击确定（见附图三）；
 
 * 附图一
-.. image:: /docs/assets/step1.png
+.. image:: ../../docs/assets/step1.png
 
 * 附图二
 .. image:: /docs/assets/step2.png
