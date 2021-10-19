@@ -34,4 +34,27 @@ Awesome VPN 不与行业的全球领导者竞争，例如 Nord VPN 和 Express V
   * 请告知你的服务商需要付款的Paypal账户：**@orezm**
   * 注意：请谨慎选择为你服务的商家，Awesome VPN不为任何第三方主体的行为及其后果承担负责或作担保；
 
+
+如何使用
+^^^^^^
+* 第一步：下载并安装Firefox（火狐浏览器）；Firefox官网链接 `点击这里 <https://www.mozilla.org/zh-CN/firefox/>`_
+
+* 第二步：打开Firefox，将账户后台显示的PAC地址复制到网络选项中，点击确定即完成设置；
+
+* 详细说明：
+
+  #. 打开Firefox，点击主菜单按钮并点击设置或首选项（见附图一）；
+  #. 滚动至设置页面底部并点击“网络设置”右侧的设置按钮（见附图二）；
+  #. 复制或输入PAC地址并点击确定（见附图三）；
+
+* 附图一
+.. image:: https://github.com/orezm/avc/blob/main/docs/assets/step1.png
+
+* 附图二
+.. image:: https://github.com/orezm/avc/blob/main/docs/assets/step2.png
+
+* 附图三
+.. image:: https://github.com/orezm/avc/blob/main/docs/assets/step3.png
+
+
 *(自豪地使用 Google 翻译)*
