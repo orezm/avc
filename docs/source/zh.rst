@@ -50,10 +50,10 @@ Awesome VPN 不与行业的全球领导者竞争，例如 Nord VPN 和 Express V
 .. image:: ../../docs/assets/step1.png
 
 * 附图二
-.. image:: /docs/assets/step2.png
+.. image:: ../../docs/assets/step2.png
 
 * 附图三
-.. image:: /docs/assets/step3.png
+.. image:: ../../docs/assets/step3.png
 
 
 *(自豪地使用 Google 翻译)*
