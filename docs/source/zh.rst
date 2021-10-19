@@ -47,13 +47,13 @@ Awesome VPN 不与行业的全球领导者竞争，例如 Nord VPN 和 Express V
   #. 复制或输入PAC地址并点击确定（见附图三）；
 
 * 附图一
-.. image:: https://github.com/orezm/avc/blob/main/docs/assets/step1.png
+.. image:: /docs/assets/step1.png
 
 * 附图二
-.. image:: https://github.com/orezm/avc/blob/main/docs/assets/step2.png
+.. image:: /docs/assets/step2.png
 
 * 附图三
-.. image:: https://github.com/orezm/avc/blob/main/docs/assets/step3.png
+.. image:: /docs/assets/step3.png
 
 
 *(自豪地使用 Google 翻译)*
