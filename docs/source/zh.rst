@@ -146,7 +146,7 @@ Awesome VPN在提供非常充足的基础流量之余，为每个基础版账户
 * Verification status：您的账户是否通过邮箱验证；
 * Valid：您的账户有效期；
 * Quota：您本月的流量额度，以“总额度/专线流量额度”的格式显示；
-* Transferred：您本月的已用额度，以“总额度/专线流量额度”的格式显示；
+* Transferred：您本月的已用额度，以“已用总流量/已用专线流量”的格式显示；
 * PAC Urls：您的PAC地址，其中Basic表示基础流量，Standard表示专线流量；
 * AnyConnect Servers：您的AnyConnect连接地址，其中Basic表示基础流量，Standard表示专线流量；
 * Socks Servers：您的Socks连接地址；
