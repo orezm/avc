@@ -34,26 +34,63 @@ Awesome VPN 不与行业的全球领导者竞争，例如 Nord VPN 和 Express V
   * 注意：请谨慎选择为你服务的商家，Awesome VPN不为任何第三方主体的行为及其后果承担负责或作担保；
 
 
-如何使用
-^^^^^^^^
-* 第一步：下载并安装Firefox（火狐浏览器）；Firefox官网链接 `点击这里 <https://www.mozilla.org/zh-CN/firefox/>`_
+简易使用说明（PAC方式）
+^^^^^^^^^^^^^^^^^^^^
 
-* 第二步：打开Firefox，将账户后台显示的PAC地址复制到网络选项中，点击确定即完成设置；
+* 这是全网最简单的联网方式；按照本指引只需一步即可完成配置，无需下载软件或插件；
+* 准备：请确保您的浏览器支持设置自定义代理，推荐下载并安装Firefox（火狐浏览器）；
+* Firefox官网下载链接：`点击这里 <https://www.mozilla.org/zh-CN/firefox/>`_
+* 操作步骤：
+
+  * 第一步：打开Firefox浏览器，将下面链接复制到自动代理配置中，点击确定即可完成设置；
+  * 没有第二步
+
+.. code:: txt
+
+  https://www.orezm.com/basic.pac
+  
 
 * 详细说明：
 
   #. 打开Firefox，点击主菜单按钮并点击设置或首选项（见附图一）；
   #. 滚动至设置页面底部并点击“网络设置”右侧的设置按钮（见附图二）；
   #. 复制或输入PAC地址并点击确定（见附图三）；
+  
+* 完成设置后，即可通过Firefox访问国际互联网，其它应用仍保持原有联网方式，互不影响；
+* PAC方式适用于电脑端（PC/Mac）的浏览器联网使用，如需手机使用请使用VPN方式联网；
+* PAC为您的浏览器自动配置HTTPS代理服务器并使用SSL全程加密，因此您无须担心数据泄露；
+* 附图：
 
-* 附图一
-.. image:: ../../docs/assets/step1.png
+  * 附图1
+  .. image:: ../../docs/assets/step1.png
 
-* 附图二
-.. image:: ../../docs/assets/step2.png
+  * 附图2
+  .. image:: ../../docs/assets/step2.png
 
-* 附图三
-.. image:: ../../docs/assets/step3.png
+  * 附图3
+  .. image:: ../../docs/assets/step3.png
+
+
+如何使用VPN方式进行联网
+^^^^^^^^^^^^^^^^^^^^^
+
+* Awesome VPN的联网方式使用思科标准，同时适用于iOS, Android, Windows, Mac；
+* 准备：下载并安装AnyConnect软件
+
+* iOS，可以从大陆App Store直接下载
+* 安卓，下载链接
+* Mac，下载链接
+* Windows，下载链接
+
+* 操作步骤：
+
+#. 第一步：打开Awesome VPN官网并登录，查看并复制您的AnyConnect专属连接地址；`点击这里登录 <https://www.orezm.com/my>`_
+#. 第二步：打开AnyConnect软件，填写连接地址，点击连接按钮；
+
+* 下载AnyConnect软件时，请注意版本号不应低于7.10；
+* 大陆的iOS的App Store可以直接下载到最新的AnyConnect；
+* 三星应用商店或Google Play可以直接下载到最新的AnyConnect；
+* 大陆品牌的应用商店也可以获取AnyConnect，但应特别注意版本；
 
 
 *(自豪地使用 Google 翻译)*
