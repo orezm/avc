@@ -1,0 +1,12 @@
+mode: global
+socks-port: 7890
+allow-lan: false
+log-level: warning
+proxies:
+  - name: "Orezm"
+    type: socks5
+    port: 443
+    tls: true
+    server: <server>
+    username: <username>
+    password: <password>
