@@ -8,25 +8,26 @@
 
 Awesome VPN 不与行业的全球领导者竞争，例如 Nord VPN 和 Express VPN。 它只是专注于如何处理好中国奇怪的网络政策，这样我们才能让您免受GFW的封锁。 如果您正在或计划留在中国，那么Awesome VPN 将是您的最佳选择。
 
+ 最简单的联网方式，便宜的专线价格
+ 
 
 独家特点
 ^^^^^^^
 
-#. 平民价格享受专线的稳定和速度，全网独家；
-#. 自动更换入口地址，确保稳定；
+#. 平民价格享受专线网速，全网独家；
 #. 所有连接方式全程强制进行加密，确保安全；
-#. 使用无地址连接，确保长期稳定连接；
+#. 所有连接经过转发，确保长期稳定和有效；
+#. 提供多种连接方式，满足各种应用场景需求；
 #. 无需安装APP或插件，确保易用；
+#. 按月付费，随时退订；
 
 
 如何支付
 ^^^^^^^^
 
-* 方法一：申请Paypal账户并绑定信用卡
-您只需要有一张VISA或MASTER颁发的信用卡即可完成支付；
+* 方法一：申请Paypal账户并绑定信用卡。您只需要有一张VISA或MASTER颁发的信用卡即可在账户中心完成支付；
 
-* 方法二：请拥有信用卡的朋友代付
-请你的一位已经拥有信用卡的朋友代为支付；
+* 方法二：请拥有信用卡的朋友代付。请你的一位已经拥有信用卡的朋友代为支付；
 
 * 方法三：在Fiverr等网站找一位值得信任的商家代付
 
@@ -76,7 +77,7 @@ Awesome VPN 不与行业的全球领导者竞争，例如 Nord VPN 和 Express V
 如何使用VPN方式进行联网
 ^^^^^^^^^^^^^^^^^^^^^
 
-* Awesome VPN的联网方式使用思科标准，同时适用于iOS, Android, Windows, Mac；
+* Awesome VPN的联网方式使用思科标准，因此同时适用于iOS, Android, Windows, Mac；
 * 准备：下载并安装AnyConnect软件
 
   * iOS，可以从大陆App Store直接下载
@@ -112,10 +113,9 @@ Awesome VPN 不与行业的全球领导者竞争，例如 Nord VPN 和 Express V
   * 第二步：下载Clash配置模板 `点击下载 <https://github.com/orezm/avc/releases/download/downloads/config.yaml>`_
   * 第三步：使用任意纯文本编辑软件打开配置模板；
   * 第四步：将<server>替换为您的Socks连接地址；
-  * 第五步：将<username>替换为您的用户名；
-  * 第六步：将<password>替换为您的密码；
-  * 第七步：打开Clash for Windows或ClashX，导入配置文件；
-  * 第八步：本地代理地址127.0.0.1:7890
+  * 第五步：将<username>替换为您的用户名；将<password>替换为您的密码；
+  * 第六步：打开Clash for Windows或ClashX，导入配置文件；
+  * 第七步：本地代理地址 127.0.0.1:7890
 
 
 如何使用IPv6进行联网
@@ -147,8 +147,8 @@ Awesome VPN在提供非常充足的基础流量之余，为每个基础版账户
 * Valid：您的账户有效期；
 * Quota：您本月的流量额度，以“总额度/专线流量额度”的格式显示；
 * Transferred：您本月的已用额度，以“总额度/专线流量额度”的格式显示；
-* PAC Urls:您的PAC地址，其中Basic表示基础流量，Standard表示专线流量；
-* AnyConnect Servers:您的AnyConnect连接地址，其中Basic表示基础流量，Standard表示专线流量；
-* Socks Servers:您的Socks连接地址；
+* PAC Urls：您的PAC地址，其中Basic表示基础流量，Standard表示专线流量；
+* AnyConnect Servers：您的AnyConnect连接地址，其中Basic表示基础流量，Standard表示专线流量；
+* Socks Servers：您的Socks连接地址；
 
 *(自豪地使用 Google 翻译)*
