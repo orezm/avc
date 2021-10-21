@@ -151,4 +151,13 @@ Awesome VPN在提供非常充足的基础流量之余，为每个基础版账户
 * AnyConnect Servers：您的AnyConnect连接地址，其中Basic表示基础流量，Standard表示专线流量；
 * Socks Servers：您的Socks连接地址；
 
+有用的链接
+^^^^^^^^^^
+
+* `Awesome VPN 官方网站 <https://www.orezm.com>`_
+* `注册账号 <https://www.orezm.com/my/?action=1>`_
+* `登录账户中心 <https://www.orezm.com/my/>`_
+* `找回密码 <https://www.orezm.com/my/lost-password/>`_
+
+
 *(自豪地使用 Google 翻译)*
