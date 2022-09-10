@@ -54,7 +54,7 @@ Everyone can register and starts connections with no charge. They are just my ev
 
 .. note::
     Of course, donation is very welcome. It really helps a lot to keeping this project alive. 
-    to Buy Me a Coffee: `Click Here <https://www.buymeacoffee.com/orezm>`_
+    to **Buy Me a Coffee**: `Click Here <https://www.buymeacoffee.com/orezm>`_
 
 .. note::
 
