@@ -1,9 +1,9 @@
-Awesome VPN - Optimized for Traveling in China
-===============================================
+Project Orezm - Sharing Top Tier VPN Server & Setups
+====================================================
 
 Welcome aboard. My name is Ernest, I’m a professional software engineer and solution expert, and I’ve been a developer for over 15 years. I’m here to help you get rid of internet restriction and censorships in case you are traveling or staying in mainland China. 
 
-**Awesome VPN** is not competing with those global leaders of the industry, such as Nord VPN and Express VPN. It’s just focusing on how to handle with the PRC’s weird network policy well, so than we can keep you out of being blocked by the GFW. If you're staying or planning to in China, then **Awesome VPN** would be your best choice.
+**Project Orezm** is not competing with those global leaders of the industry, such as Nord VPN and Express VPN. It’s just focusing on how to handle with the PRC’s weird network policy well, so than we can keep you out of being blocked by the GFW. If you're staying or planning to in China, then **Awesome VPN** would be your best choice.
 
 Useful Links
 ------------
@@ -37,11 +37,11 @@ Awesome VPN will change inbound addresses automatically everyday. And connective
 
 3. It's a Car, Not a Bus
 ^^^^^^^^^^^^^^^^^^^^^
-There will be no more than 10 users connecting to the same server at the same moment. You don't need to wait to get on even in the rush hour, and you will never be kicked out of connection.
+There will be no more than 10 users connecting to the same server at the same moment. You don't need to wait to get on even in the rush hour, and you will never be kicked out.
 
 4. VPN and Proxy, You Got Both
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-We’re not going to kill a fly with an elephant gun. Our powerful socks proxy is suitable for most situations for speed and convenience reasons, though choice is on you.
+We’re not going to kill a fly with an elephant gun. Our powerful proxy is suitable for most situations for connection speed and convenience reasons, though choice is on you.
 
 5. Easy Use
 ^^^^^^^^
@@ -54,15 +54,11 @@ No App or plugin needed. All you have to do is a few clicks on built-in settings
 Simple Steps to Get Started
 -----------------------------
 
-#. Sign up  ->  `Click Here <https://www.orezm.com/my/?action=1>`_
+#. Sign up  ->  `Click Here <https://www.orezm.com/wp-login.php?action=register>`_
 
-#. Choose your subscription  ->  `Click Here <https://www.orezm.com/my/payment/>`_
+#. Set up for VPN  ->  :doc:`Click Here <vpn>`
 
-#. Wait for a confirmation email
-
-#. Set up on your devices for VPN  ->  :doc:`Click Here <vpn>`
-
-#. Set up on your devices for Proxy  ->  :doc:`Click Here <proxy>`
+#. or Set up for Proxy  ->  :doc:`Click Here <proxy>`
 
 #. Enjoy!
 
@@ -73,5 +69,4 @@ Contents
 
    vpn
    proxy
-   faq
    zh
