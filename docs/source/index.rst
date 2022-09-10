@@ -32,20 +32,29 @@ Exclusive Features
 We did not compromise on security and speed. Awesome VPN establishes connections with the same protocols as the other providers do. And all servers of Awesome VPN locate in southeast Asia, where is most close to mainland China. So we can keep your data and rate at the top tier.
 
 2. Stability Matters
-^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 Awesome VPN will change inbound addresses automatically everyday. And connective test is running hourly. These will make your connection never get blocked.
 
 3. It's a Car, Not a Bus
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 There will be no more than 10 users connecting to the same server at the same moment. You don't need to wait to get on even in the rush hour, and you will never be kicked out.
 
 4. VPN and Proxy, You Got Both
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 We’re not going to kill a fly with an elephant gun. Our powerful proxy is suitable for most situations for connection speed and convenience reasons, though choice is on you.
 
 5. Easy Use
-^^^^^^^^
+^^^^^^^^^^^
 No App or plugin needed. All you have to do is a few clicks on built-in settings of you cell phone or PC/Mac.
+
+6. MOST IMPORTANT! It's Free of Charge.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Everyone can register and starts connections with no charge. They are just my every day personal use servers and I decide to share them with you guys. So just enjoy.
+
+
+.. note::
+    Of course, donation is very welcome. It really helps a lot to keeping this project alive. 
+    to Buy Me a Coffee: `Click Here <https://www.buymeacoffee.com/orezm>`_
 
 .. note::
 
