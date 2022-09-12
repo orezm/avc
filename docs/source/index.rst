@@ -5,24 +5,6 @@ Welcome aboard. My name is Ernest, I’m a professional software engineer and so
 
 **Project Orezm** is not competing with those global leaders of the industry, such as Nord VPN and Express VPN. It’s just focusing on how to handle with the PRC’s weird network policy well, so than we can keep you out of being blocked by the GFW. If you're staying or planning to in China, then **Awesome VPN** would be your best choice.
 
-Useful Links
-------------
-* :doc:`Quick Guide <vpn>`
-
-* `Sign Up and Get Your Credential <https://www.orezm.com/my/?action=1>`_
-
-* `Login and Change Password <https://www.orezm.com/my/>`_
-
-* `Reset Password <https://www.orezm.com/my/lost-password/>`_
-
-* `Pricing & Payment <https://www.orezm.com/my/payment/>`_
-
-* :doc:`中文说明 <zh>`
-
-
-.. note::
-
-    You should always click and open links above **WITHOUT** (or disconnect from) any VPN or Proxy connections.
 
 Exclusive Features
 ------------------
@@ -61,10 +43,10 @@ Everyone can register and starts connections with no charge. They are just my ev
     There are no limitations on rate and bandwidth of your subscription. So **the actual rate of connection mostly depends on which network you choose to connect to the server with**. If your Wi-Fi performs differently from hour to hour, always using cellphone network will bring you the best experience.
 
 
-Method 1: Settings for Firefox (Both Windows and Mac)
------------------------------------------------------
+Method 1: Settings for Firefox (Proxy for both Windows and Mac, MOST EASY WAY)
+-------------------------------------------------------------------------
 
-#. Open Settings.
+#. Open Settings on Firefox Browser.
 
 #. Click Settings in Network Settings section.
 
@@ -75,22 +57,68 @@ Method 1: Settings for Firefox (Both Windows and Mac)
 #. Click OK. (All Done.)
 
 
-Simple Steps to Get Started
------------------------------
+Method 2: Settings for Cisco AnyConnect (VPN for Android, iPhone, Windows and Mac)
+---------------------------------------------------------------------------------
 
-#. Sign up  ->  `Click Here <https://www.orezm.com/wp-login.php?action=register>`_
+#. Install and open Cisco AnyConnect Secure Mobility Client. You can get the install package from Google Play, Apple Store, Cisco Official Website, or just  `Click Here <https://github.com/orezm/avc/releases/tag/downloads>`_
 
-#. Set up for VPN  ->  :doc:`Click Here <vpn>`
+#. `Click Here <https://www.orezm.com/wp-login.php>`_ and login, Click "Servers" on the left side menu.
 
-#. or Set up for Proxy  ->  :doc:`Click Here <proxy>`
+#. Copy and paste one of the servers domain to the empty textbox on AnyConnect. 
 
-#. Enjoy!
+#. Click Connect.
 
-Contents
---------
 
-.. toctree::
+Method 3: Set up a VPN connection on iPhone (No APP installed required)
+-----------------------------------------------------------------------
 
-   vpn
-   proxy
-   zh
+#. On iPhone, choose Settings > General > VPN, then click Add VPN Configuration.
+
+#. Click the Type menu, then choose **IPSec**.
+
+#. Enter the description as a name.
+
+#. Enter the server address, the account name, and the password for the VPN connection.
+
+#. Enter the secret which is the pre-shared key.
+
+#. Click Done.
+
+
+Method 4: Set up a VPN connection on Mac (No Application installed required)
+----------------------------------------------------------------------------
+
+#. On Mac, choose Apple menu > System Preferences, then click Network.
+
+#. Click the Add button in the list at the left, click the Interface pop-up menu, then choose VPN.
+
+#. Click the VPN Type pop-up menu, then choose **IPSec**. Give the VPN service a name, then click Create.
+
+#. Enter the server address and the account name for the VPN connection.
+
+#. Click Authentication Settings, then enter the Shared Key.
+
+#. Select “Show VPN status in menu bar” to use the VPN status icon to connect to the network and switch between VPN services.
+
+#. Click Apply.
+
+
+Links
+-----
+
+* :doc:`Quick Guide <vpn>`
+
+* `Sign Up and Get Your Credential <https://www.orezm.com/my/?action=1>`_
+
+* `Login and Change Password <https://www.orezm.com/my/>`_
+
+* `Reset Password <https://www.orezm.com/my/lost-password/>`_
+
+* `Pricing & Payment <https://www.orezm.com/my/payment/>`_
+
+* :doc:`中文说明 <zh>`
+
+
+.. note::
+
+    You should always click and open links above **WITHOUT** (or disconnect from) any VPN or Proxy connections.
