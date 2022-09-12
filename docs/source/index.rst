@@ -60,6 +60,21 @@ Everyone can register and starts connections with no charge. They are just my ev
 
     There are no limitations on rate and bandwidth of your subscription. So **the actual rate of connection mostly depends on which network you choose to connect to the server with**. If your Wi-Fi performs differently from hour to hour, always using cellphone network will bring you the best experience.
 
+
+Method 1: Settings for Firefox (Both Windows and Mac)
+-----------------------------------------------------
+
+#. Open Settings.
+
+#. Click Settings in Network Settings section.
+
+#. Check the option 'Automatically proxy configuration URL'
+
+#. Enter ``https://www.orezm.com/basic.php`` in the textbox.
+
+#. Click OK. (All Done.)
+
+
 Simple Steps to Get Started
 -----------------------------
 
