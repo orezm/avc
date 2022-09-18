@@ -1,5 +1,5 @@
-Project Orezm - Sharing Top Tier VPN Server & Setups
-====================================================
+Project Orezm - Free VPN Servers & Setups
+=========================================
 
 Welcome aboard. My name is Ernest, I’m a professional software engineer and solution expert, and I’ve been a developer for over 15 years. I’m here to help you get rid of internet restriction and censorships in case you are traveling or staying in mainland China. 
 
@@ -37,8 +37,8 @@ Everyone can register and starts connections with no charge. They are just my ev
     There are no limitations on rate and bandwidth of your subscription. So **the actual rate of connection mostly depends on which network you choose to connect to the server with**. If your Wi-Fi performs differently from hour to hour, always using cellphone network will bring you the best experience.
 
 
-How To
-------
+Get Started
+-----------
 
 **Method 1: Settings for Firefox (Proxy for both Windows and Mac, MOST EASY WAY)**
 
@@ -48,9 +48,9 @@ How To
 
 #. Check the option 'Automatically proxy configuration URL'
 
-#. Enter ``https://www.orezm.com/basic.php`` in the textbox.
+#. Copy and paste ``https://www.orezm.com/basic.php`` to the URL textbox.
 
-#. Click OK. (All Done.)
+#. Click OK. 
 
 
 **Method 2: Settings for Cisco AnyConnect (VPN for Android, iPhone, Windows and Mac)**
