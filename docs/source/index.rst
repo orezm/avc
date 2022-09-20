@@ -8,12 +8,12 @@ Welcome aboard. My name is Ernest, I’m a professional software engineer and so
 Contents
 --------
 
-#. `Exclusive Features <Features>`_
-#. `Guide`_
+#. `Exclusive Features`_
+#. `Get Started`_
 #. `Links`_
 #. `使用说明`_
 
-..  _Features:
+..  _Exclusive Features:
 
 Exclusive Features
 ------------------
@@ -52,7 +52,7 @@ Everyone can register and starts connections with no charge. They are just my ev
     There are no limitations on rate and bandwidth of your subscription. So **the actual rate of connection mostly depends on which network you choose to connect to the server with**. If your Wi-Fi performs differently from hour to hour, always using cellphone network will bring you the best experience.
 
 
-..  _Guide:
+..  _Get Started:
 
 Get Started
 -----------
@@ -172,16 +172,15 @@ Links
 * 完成设置后，即可通过Firefox访问国际互联网，其它应用仍保持原有联网方式，互不影响；
 * PAC方式适用于电脑端（PC/Mac）的浏览器联网使用，如需手机使用请使用VPN方式联网；
 * PAC为您的浏览器自动配置HTTPS代理服务器并使用SSL全程加密，因此您无须担心数据泄露；
-* 附图：
 
-  * 附图1
-  .. image:: ../../docs/assets/firefox_figure1.jpeg
+* 附图1
+.. image:: ../../docs/assets/firefox_figure1.jpeg
 
-  * 附图2
-  .. image:: ../../docs/assets/firefox_figure2.jpeg
+* 附图2
+.. image:: ../../docs/assets/firefox_figure2.jpeg
 
-  * 附图3
-  .. image:: ../../docs/assets/firefox_figure3.jpeg
+* 附图3
+.. image:: ../../docs/assets/firefox_figure3.jpeg
 
 
 **方法二：如何使用VPN方式进行联网**
