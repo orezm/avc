@@ -1,5 +1,5 @@
-Project Orezm - Guide
-=====================
+Project Orezm - User Guide
+==========================
 
 Welcome aboard. My name is Ernest, I’m a professional software engineer and solution expert, and I’ve been a developer for over 15 years. I’m here to help you get rid of internet restriction and censorships in case you are traveling or staying in mainland China. 
 
