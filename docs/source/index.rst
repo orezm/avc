@@ -69,18 +69,22 @@ Get Started
 
 #. Click OK. 
 
-#. Figure 1
-.. image:: ../../docs/assets/firefox_figure1.jpeg
-
-#. Figure 2
-.. image:: ../../docs/assets/firefox_figure2.jpeg
-
-#. Figure 3
-.. image:: ../../docs/assets/firefox_figure3.jpeg
-
 .. note::
 
     IP location can be changed by modifying the value of key 'node' in the URL above, like ``https://www.orezm.com/basic.php?node=default``. You can change 'default' to any location you prefered. Available nodes are listed in menu 'Servers' while you've login `HERE <https://www.orezm.com/wp-login.php>`_.
+
+* Figure 1
+
+.. image:: ../../docs/assets/firefox_figure1.jpeg
+
+* Figure 2
+
+.. image:: ../../docs/assets/firefox_figure2.jpeg
+
+* Figure 3
+
+.. image:: ../../docs/assets/firefox_figure3.jpeg
+
 
 **Method 2: Settings for Cisco AnyConnect (VPN for Android, iPhone, Windows and Mac)**
 
