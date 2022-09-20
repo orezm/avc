@@ -1,10 +1,19 @@
-Project Orezm - Free VPN Servers & Setups
-=========================================
+Project Orezm - Guide
+=====================
 
 Welcome aboard. My name is Ernest, I’m a professional software engineer and solution expert, and I’ve been a developer for over 15 years. I’m here to help you get rid of internet restriction and censorships in case you are traveling or staying in mainland China. 
 
 **Project Orezm** is not competing with those global leaders of the industry, such as Nord VPN and Express VPN. It’s just focusing on how to handle with the PRC’s weird network policy well, so than we can keep you out of being blocked by the GFW. If you're staying or planning to in China, then join this project would be your best choice.
 
+Contents
+--------
+
+#. `Exclusive Features <Features>`_
+#. `Guide`_
+#. `Links`_
+#. `使用说明`_
+
+..  _Features:
 
 Exclusive Features
 ------------------
@@ -43,6 +52,8 @@ Everyone can register and starts connections with no charge. They are just my ev
     There are no limitations on rate and bandwidth of your subscription. So **the actual rate of connection mostly depends on which network you choose to connect to the server with**. If your Wi-Fi performs differently from hour to hour, always using cellphone network will bring you the best experience.
 
 
+..  _Guide:
+
 Get Started
 -----------
 
@@ -57,6 +68,15 @@ Get Started
 #. Copy and paste ``https://www.orezm.com/basic.php`` to the URL textbox.
 
 #. Click OK. 
+
+#. Figure 1
+.. image:: ../../docs/assets/firefox_figure1.jpeg
+
+#. Figure 2
+.. image:: ../../docs/assets/firefox_figure2.jpeg
+
+#. Figure 3
+.. image:: ../../docs/assets/firefox_figure3.jpeg
 
 .. note::
 
@@ -104,32 +124,31 @@ Get Started
 
 #. Click Apply.
 
+..  _Links:
 
 Links
 -----
 
-* :doc:`Quick Guide <vpn>`
+* `Project Orezm Homepage <https://www.orezm.com>`_
 
-* `Sign Up and Get Your Credential <https://www.orezm.com/my/?action=1>`_
+* `Sign Up <https://www.orezm.com/wp-login.php?action=register>`_
 
-* `Login and Change Password <https://www.orezm.com/my/>`_
+* `Login to User Page <https://www.orezm.com/wp-login.php>`_
 
-* `Reset Password <https://www.orezm.com/my/lost-password/>`_
+* `Support or Become Member <https://www.buymeacoffee.com/orezm>`_
 
 * `Pricing & Payment <https://www.orezm.com/my/payment/>`_
-
-* :doc:`中文说明 <zh>`
-
 
 .. note::
 
     You should always click and open links above **WITHOUT** (or disconnect from) any VPN or Proxy connections.
 
+..  _使用说明:
 
 使用说明
 -------
 
-**简易使用说明（PAC方式）**
+**方法一：简易使用说明（PAC方式）**
 
 * 这是全网最简单的联网方式；按照本指引只需一步即可完成配置，无需下载软件或插件；
 * 准备：请确保您的浏览器支持设置自定义代理，推荐下载并安装Firefox（火狐浏览器）；
@@ -156,16 +175,16 @@ Links
 * 附图：
 
   * 附图1
-  .. image:: ../../docs/assets/step1.png
+  .. image:: ../../docs/assets/firefox_figure1.jpeg
 
   * 附图2
-  .. image:: ../../docs/assets/step2.png
+  .. image:: ../../docs/assets/firefox_figure2.jpeg
 
   * 附图3
-  .. image:: ../../docs/assets/step3.png
+  .. image:: ../../docs/assets/firefox_figure3.jpeg
 
 
-**如何使用VPN方式进行联网**
+**方法二：如何使用VPN方式进行联网**
 
 * Awesome VPN的联网方式使用思科标准，因此同时适用于iOS, Android, Windows, Mac；
 * 准备：下载并安装AnyConnect软件
@@ -187,7 +206,7 @@ Links
 * 大陆品牌的应用商店也可以获取AnyConnect，但应特别注意版本；
 
 
-**如何使用Socks方式进行联网(暂不可用)**
+**方法三：如何使用Socks方式进行联网(暂不可用)**
 
 * 仅限有经验的用户操作使用；
 * 全程使用TLS加密，请务必确保您使用的客户端支持TLS连接；
