@@ -141,8 +141,6 @@ Links
 
 * `Support or Become Member <https://www.buymeacoffee.com/orezm>`_
 
-* `Pricing & Payment <https://www.orezm.com/my/payment/>`_
-
 .. note::
 
     You should always click and open links above **WITHOUT** (or disconnect from) any VPN or Proxy connections.
